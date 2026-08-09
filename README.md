@@ -6,6 +6,6 @@ I specialize in automation, infrastructure as code, and keeping systems running 
 
 ---
 
-Feel free to use and modify any of my stuff.
+Feel free to use my stuff. This is basically a GitHub for Scratch projects, so there are no proper releases or controlled pipelines for what makes it to main.
 
 </div>
