@@ -8,4 +8,6 @@ I specialize in automation, infrastructure as code, and keeping systems running 
 
 Feel free to use my stuff. This is basically a GitHub for Scratch projects.
 
+If you'd like to reach out, email me at [bryceforsm@gmail.com](mailto:bryceforsm@gmail.com).
+
 </div>
